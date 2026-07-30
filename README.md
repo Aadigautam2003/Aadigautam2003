@@ -35,34 +35,34 @@ I'm a passionate Computer Engineer specializing in low-level systems programming
 ### 🛠️ Featured Projects
 
 #### 🐧 [32-Bit Operating System](https://github.com/sahniaditya007/The-Operating-System-Project)
-Architected and implemented a fully functional 32-bit OS from scratch (~8,000 LOC in C and x86 Assembly). 
+Function: Provides a foundational software environment to bridge bare-metal hardware with user applications, demonstrating how core computer resources are managed without relying on an existing OS.
+Why I built it: To demystify the "black box" of modern operating systems by engineering the core scheduling, memory, and hardware management systems entirely from scratch.
 
-Why I built it: To gain a deep, hands-on mastery of computer architecture, kernel development, and low-level hardware-software interfacing.
-* **Key Features:** Custom two-stage bootloader, GDT/IDT, FAT12/16/32 support, ELF loader, and custom device drivers (VGA, PS/2).
+Tech Stack: C, x86 Assembly, QEMU, Bochs (Custom bootloader, GDT/IDT, FAT12/16/32, ELF loader).
 
 #### ⚙️ [5-Stage Pipelined RISC-V Core](https://github.com/salwan-aldhahab/RISC-V_Project)
-Designed a fully pipelined 5-stage in-order RV32I processor using SystemVerilog.
+Function: A custom microprocessor design that executes instructions efficiently by overlapping multiple stages of computation, acting as the processing "brain" for embedded devices.
+Why I built it: To translate high-level computer architecture theory into a tangible hardware design, specifically tackling the complexities of data hazards and processing bottlenecks.
 
-Why I built it: To understand the intricacies of processor design, instruction decoding, and data hazard resolution using SystemVerilog.
-* **Key Features:** Validated control logic, data hazard handling, and pipeline integration using automated `PATTERN_CHECK` scripts and ModelSim waveforms.
+Tech Stack: SystemVerilog, Verilator, ModelSim (Automated PATTERN_CHECK scripts and waveform simulation).
 
 #### 📡 [Human Activity Recognition Using Wi-Fi CSI](https://github.com/Aadigautam2003/Human-Activity-Recognition-using-CSI-Data-and-Machine-Learning)
-Built a machine learning pipeline to classify 7 distinct human physical activities from raw Wi-Fi Channel State Information (CSI) signals.
+Function: Translates invisible ambient Wi-Fi waves into actionable human behavioral data, allowing systems to "see" movement without the use of optical cameras.
+Why I built it: To create a privacy-centric, non-intrusive alternative for healthcare monitoring and smart home automation where traditional cameras pose security or privacy risks.
 
-Why I built it: To explore the viability of non-intrusive, camera-free sensing applications for privacy-preserving monitoring and healthcare
-* **Key Features:** Achieved 92.6% accuracy utilizing PCA dimensionality reduction, KNN, SVM, and Random Forest classifiers.
+Tech Stack: Python, Scikit-Learn (PCA dimensionality reduction, KNN, SVM, Random Forest).
 
 #### 🎛️ [Real-Time Accelerometer-Based VGA Graphics Controller](https://drive.google.com/file/d/1NZkVDjPRY7AFmTMPIzmWQ6NlpVFT7spJ/view)
-Designed a real-time, hardware-only sensor visualization system on an Intel MAX10 FPGA.
+Function: A pure-hardware visualization system that instantly reacts to physical movement in the real world and outputs immediate visual feedback to a monitor.
+Why I built it: To prove that high-speed data processing and peripheral communication can be achieved strictly through hardware logic, eliminating the latency and overhead of a software-based CPU.
 
-Why I built it: To demonstrate complex multi-clock domain management and direct hardware-to-peripheral communication without relying on a CPU.
-* **Key Features:** Custom SPI Master controller, ADXL345 interface, VGA display rendering, and multi-clock domain crossing.
+Tech Stack: SystemVerilog, Intel MAX10 FPGA (SPI Master controller, ADXL345 interface, VGA rendering, multi-clock domain crossing).
 
 #### 🧭 [Campus Compass (Indoor Navigation)](https://drive.google.com/file/d/1-EVBWEnUBNSEM7sVHQ2YZx3AIJqbcBNb/view)
-Led an 8-member capstone team to build an indoor navigation and emergency response system (*Jarrell Award Winner*).
+Function: A real-time spatial navigation platform that solves the "last-mile" routing problem inside large, complex buildings where standard GPS fails.
+Why I built it: To improve campus safety and accessibility, giving students and emergency responders a reliable tool to navigate confusing indoor environments.
 
-Why I built it: To solve real-world campus navigation challenges while managing a full Agile development lifecycle as an interdisciplinary capstone lead.
-* **Key Features:** Directed full Agile lifecycle and engineered front-end architecture using the Mappedin SDK.
+Tech Stack: HTML5, CSS3, JavaScript, Mappedin SDK (Jarrell Award Winner).
 
 ---
 
