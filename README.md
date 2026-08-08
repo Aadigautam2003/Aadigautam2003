@@ -34,7 +34,7 @@ I'm a passionate Computer Engineer specializing in low-level systems programming
 
 **Cloud & Serverless:** 
 `Puter Workers` | `Puter FS` | `Puter KV` | `Puter Auth` | `Puter.js` | `Serverless Architecture`
----
+
 
 ### 🛠️ Featured Projects
 
