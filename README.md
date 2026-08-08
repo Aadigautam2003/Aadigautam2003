@@ -18,20 +18,22 @@ I'm a passionate Computer Engineer specializing in low-level systems programming
 
 ### 💻 Tech Stack & Tools
 **Languages:** 
-`C` | `C++` | `Python` | `Java` | `x86 Assembly` | `SystemVerilog` | `JavaScript` | `SQL` | `Bash`
+`C` | `C++` | `Python` | `Java` | `x86 Assembly` | `SystemVerilog` | `JavaScript` | `TypeScript` | `SQL` | `Bash`
 
 **Systems & Hardware:** 
 `Linux/Unix` | `Kernel Development` | `Custom Bootloaders` | `Memory Management` | `ARM Cortex-M` | `FPGA (Intel MAX10)` | `RTOS` | `QEMU` | `Bochs`
 
 **Machine Learning & Data Science:** 
-`Pandas` | `NumPy` | `Scikit-Learn` | `PCA` | `KNN` | `SVM` | `Random Forest` | `TensorFlow` | `DVC` | `MLFlow`
+`Pandas` | `NumPy` | `Scikit-Learn` | `PCA` | `KNN` | `SVM` | `Random Forest` | `TensorFlow` | `DVC` | `MLFlow` | `Google Gemini AI` | `Prompt Engineering`
 
 **Software Engineering & Networking:** 
 `OOP` | `Agile/Scrum` | `Git` | `TCP/IP` | `Wireshark` | `MERN Stack` | `ModelSim` | `Verilator`
 
 **Web & Deployment:** 
-`Flask` | `Docker` | `Gunicorn` | `Google Gemini API`
+`Flask` | `Docker` | `Gunicorn` | `React 19` | `React Router v7` | `Tailwind CSS v4` | `Vite` | `Node.js` | `npm`
 
+**Cloud & Serverless:** 
+`Puter Workers` | `Puter FS` | `Puter KV` | `Puter Auth` | `Puter.js` | `Serverless Architecture`
 ---
 
 ### 🛠️ Featured Projects
